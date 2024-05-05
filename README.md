@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.instagram.com/beytullahulusoyacademy/"><img src="~/beyto.png" height="125"></a>
+  <a href="https://www.instagram.com/beytullahulusoyacademy/"><img src="beyto.png" height="125"></a>
   <h3 align="center">beytullahulusoy - academy
 </h3>
   <p align="center">
